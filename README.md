@@ -10,3 +10,6 @@ The optimization framework for OPDD is a derivation from our paper below:
 ## Contact
 - Stephen Z. Liu: szliu@jhmi.edu
 - Wojciech Zbijewski: wzbijewski@jhu.edu
+
+## Description
+We here present the definition of each matrix/vector in the context of multi-energy imaging. However, keep in mind that these terms in OPDD can be customized for general purposes.
