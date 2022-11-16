@@ -10,5 +10,5 @@ The optimization framework of OPDD algorithm is a derivation from our paper belo
 - Liu, S. Z., Tivnan, M., Osgood, G. M., Siewerdsen, J. H., Stayman, J. W., & Zbijewski, W. (2022) "Model-based three-material decomposition in dual-energy CT using the volume conservation constraint," *Phys. Med. Biol.*, **67**(14), 145006. DOI: https://doi.org/10.1088/1361-6560/ac7a8b
 
 ## Contact
-- Wojciech Zbijewski: wzbijewski@jhu.edu
 - Stephen Z. Liu: szliu@jhmi.edu
+- Wojciech Zbijewski: wzbijewski@jhu.edu
