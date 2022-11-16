@@ -6,7 +6,7 @@ $$\left( \mathrm{OPDD} \right): \quad \min_{\mathbf{\pi}} \frac{1}{2} \Vert \mat
 here, with a particular emphasis on projection-domain decomposition problem in multi-energy radiography.
 
 ## Reference
-The OPDD algorithm is modified based on our previous paper:
+The optimization framework of OPDD algorithm is a derivation from our paper below:
 - Liu, S. Z., Tivnan, M., Osgood, G. M., Siewerdsen, J. H., Stayman, J. W., & Zbijewski, W. (2022) "Model-based three-material decomposition in dual-energy CT using the volume conservation constraint," *Phys. Med. Biol.*, **67**(14), 145006. DOI: https://doi.org/10.1088/1361-6560/ac7a8b
 
 ## Contact
