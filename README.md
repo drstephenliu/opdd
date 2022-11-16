@@ -1,7 +1,9 @@
 # OPDD
 A fast converging algorithm to solve the nonlinear problem in the following generalized form:
+
 $$\left( \mathrm{OPDD} \right): \quad \min_{\mathbf{\pi}} \frac{1}{2} \Vert \mathbf{y} - \mathbf{B} \mathrm{exp} \left( -\mathbf{M} \mathbf{\pi} \right) \Vert_{\mathbf{\zeta}}^{2} + \mathbf{\beta}^T \mathcal{R}_{\mathrm{Huber}} \left( \mathbf{\pi} \right) \quad ,$$
-with regularization, optimal line search and momentum. Here, we show a particular emphasis on the projection-domain decomposition problem in multi-energy x-ray radiography/CT/CBCT imaging.
+
+with smoothness regularization, optimal line search and momentum. Here, we show a particular emphasis on the projection-domain decomposition problem in multi-energy x-ray radiography/CT/CBCT imaging.
 
 ## Reference
 The optimization framework for OPDD is a derivation from our paper below:
