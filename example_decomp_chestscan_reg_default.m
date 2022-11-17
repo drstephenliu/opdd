@@ -3,6 +3,8 @@ clearvars
 clc
 close all
 
+reset(gpuDevice)
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%% 2022/11/10
 %%%% EXAMPLE OF THREE-ENERGY TWO-MATERIAL DECOMPOSITION FOR THE DATA
