@@ -13,6 +13,13 @@ The optimization framework for OPDD is a derivation from our paper below:
 - Stephen Z. Liu: szliu@jhmi.edu
 - Wojciech Zbijewski: wzbijewski@jhu.edu
 
+## Example Scripts
+The following examples are created to decompose triple-energy chest radiograph data simulated using a multi-layer flat-panel detector configuration:
+- ```example_decomp_chestscan_unreg_default.m```: water-bone two-basis decomposition without regularization of smoothness (default hyperparameters).
+- ```example_decomp_chestscan_unreg_customized.m```: water-bone two-basis decomposition without regularization of smoothness (customized hyperparameters).
+- ```example_decomp_chestscan_reg_default.m```: water-bone two-basis decomposition with regularization of smoothness (default hyperparameters).
+- ```example_decomp_chestscan_reg_customized.m```: water-bone two-basis decomposition with regularization of smoothness (customized hyperparameters).
+
 ## Description
 #### We here present the definition of each matrix/vector in the context of multi-energy medical imaging. However, keep in mind that all terms in OPDD can be customized for general purposes.
 
